@@ -2,4 +2,4 @@
 osu!scr (osu but on scratch) is a game where you click circles.
 there are circles, sliders and spinners.
 just install scratch or import it to the scratch website!
-(DEV NOTE) i might start working on this again
+(DEV NOTE) this project is scrapped
